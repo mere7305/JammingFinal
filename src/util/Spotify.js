@@ -1,5 +1,5 @@
 //const url = 'https://accounts.spotify.com/authorize';
-const clientID = '677c546140364d029b56f9cc5a4a04ae';
+const clientID = 'insert clientID here';
 const redirectURI = 'http://localhost:3000';
 let accessToken = '';
 let expiresIn = '';
